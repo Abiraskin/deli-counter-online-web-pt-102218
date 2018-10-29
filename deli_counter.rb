@@ -11,7 +11,3 @@ def line(deli)
     puts current_line
   end
 end
-
-
-
-
